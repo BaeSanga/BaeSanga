@@ -1,6 +1,6 @@
 <div align="center">
   
-### :wave: Hi! I'm SangA :wave:
+### :wave: Hello! I'm SangA :wave:
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
