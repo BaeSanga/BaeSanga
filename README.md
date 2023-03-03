@@ -19,5 +19,3 @@
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 ![heroku badge](https://img.shields.io/badge/-Heroku-%23F7DF1E?style=flat-square&logo=Heroku&logoColor=white&color=430098)<br>
-**[ Design ]**<br>
-![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
