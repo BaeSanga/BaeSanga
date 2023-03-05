@@ -20,7 +20,8 @@
 
 </br>
 
-#### 📫<a href="mailto:baesanga1207@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/baesanga1207@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+#### 📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baesanga1207@gmail.com)](mailto:baesanga1207@gmail.com)
+
 
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=BaeSanga&show_icons=true">
