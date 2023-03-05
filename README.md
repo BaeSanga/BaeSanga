@@ -15,12 +15,10 @@
   
 ### ⚒ Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=Visual%20Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/> 
 
-</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaeSanga&show_icons=true">
 
