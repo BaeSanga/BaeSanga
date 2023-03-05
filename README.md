@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/> 
 
+#### 📫<a href="mailto:baesanga1207@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/baesanga1207@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaeSanga&show_icons=true">
