@@ -1,4 +1,4 @@
-## Hi! I'm SangA Bae!👋
+## Hi! I'm SangA Bae! 
 <div align=center>
 
 ### 💪🏻 Skills
